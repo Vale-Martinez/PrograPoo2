@@ -1,0 +1,13 @@
+Controlador
+Controlador.Doctor
+Controlador.Enfermero
+Controlador.Paciente
+Controlador.Registrar
+Controlador.Secretario
+Modelo
+Vista
+Vista.Doctor
+Vista.Enfermero
+Vista.Paciente
+Vista.Registrar
+Vista.Secretario
